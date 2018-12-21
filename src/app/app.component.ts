@@ -6,5 +6,24 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  title = 'ToDoApp';
+
+
+  // todopage = true;
+  // catpage = false;
+  //  headpage=true;
+
+  // showCategory()
+  // {
+  //   this.todopage =false;
+  //   this.catpage = true;
+  //  this.headpage=true; 
+  // }
+  // showtodos()
+  // {
+  //   this.todopage =true;
+  //   this.catpage = false;
+  //  this.headpage=true;
+
+  // }
 }
